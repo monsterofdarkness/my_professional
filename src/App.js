@@ -1,10 +1,10 @@
 import React from "react";
 import "./index.css"
-import Home from "./router/Home"
-import About from "./router/About"
-import Contact from "./router/Contact"
-import Project from "./router/Project"
-import More from "./router/More";
+import Home from "./pages/Home"
+import About from "./pages/About"
+import Contact from "./pages/Contact"
+import Project from "./pages/Project"
+import More from "./pages/More";
 import {Route, Routes} from "react-router-dom"
 
 
