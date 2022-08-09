@@ -8,7 +8,7 @@ const More = () => {
     <div>
     <Navbar></Navbar>
     <HeroImg2 heading="MORE" text="Besides code, I have many other skills."></HeroImg2>
-    <Footer></Footer>      
+    <Footer/>      
     </div>
   )
 }
