@@ -12,6 +12,7 @@ const Contact = () => {
     <Form></Form>
     <Footer></Footer>
     </div>
+    
   )
 }
 
